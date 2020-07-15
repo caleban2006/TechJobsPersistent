@@ -1,5 +1,5 @@
 --Part 1
-DESCRIBE Jobs;
+SELECT * FROM Jobs;
 --Part 2
 SELECT Name FROM employers WHERE Location = "St. Louis";
 --Part 3
